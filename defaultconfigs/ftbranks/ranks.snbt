@@ -1,0 +1,22 @@
+{
+	member: {
+		name: "Member"
+		power: 1
+		condition: "always_active"
+        ftbessentials.back.cooldown: 120
+        ftbessentials.home.cooldown:60
+        ftbessentials.tpa.cooldown: 30
+        
+	}
+	admin: {
+		name: "Admin"
+		power: 1000
+		condition: "op"
+		ftbranks.name_format: "&4{name}"
+        ftbchunks.max_claimed: 1000
+        ftbchunks.max_force_loaded: 50
+        ftbessentials.back.cooldown: 1
+        ftbessentials.home.cooldown:1
+        ftbessentials.tpa.cooldown: 1
+	}
+}

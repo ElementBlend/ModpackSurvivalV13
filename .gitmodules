@@ -1,0 +1,3 @@
+[submodule "src"]
+	path = src
+	url = https://github.com/AllTheMods/ATM-8.git
