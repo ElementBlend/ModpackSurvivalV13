@@ -11,5 +11,5 @@ Ram: It recommends using at least 8GB
 ## Change log:
 
 You can view the change log in [here](https://github.com/ElementBlend/ModpackSurvivalV13/blob/main/CHANGELOG.md)  
-* It is just some additional changes based on the original modpack `SkyFactory 4` for our semi-private discord server  
+* It is just some additional changes based on the original modpack `All The Mods 8` for our semi-private discord server  
 * For original source, you can view it through the `src` folder
