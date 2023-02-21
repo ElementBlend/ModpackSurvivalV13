@@ -13,6 +13,11 @@
 	automation_nasa_workbench_energy_capacity = 9600
 	automation_nasa_workbench_energy_usage = 24
 	automation_nasa_workbench_cook_time = 200
+	gravity_normalizer_energy_capacity = 9600
+	#Blocks = x * y * z
+	gravity_normalizer_energy_per_blocks = 0.5
+	gravity_normalizer_max_length = 31
+	gravity_normalizer_proof_duration = 10
 
 [enchantments]
 	#Show tooltip on this mod's enchanted book

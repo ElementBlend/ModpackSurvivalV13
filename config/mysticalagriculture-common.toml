@@ -28,9 +28,11 @@
 	#Should vanilla crafting recipes for seeds be generated?
 	seedCraftingRecipes = false
 	#Should Supremium Tools be enchantable in an Enchanting Table?
-	enchantableSupremiumTools = false
+	enchantableSupremiumTools = true
 	#Should fake players be able to use watering cans?
 	fakePlayerWatering = true
+	#Should wearing a full set of Awakened Supremium armor grant the Plant Growth AOE set bonus?
+	awakenedSupremiumSetBonus = true
 
 #World generation options.
 [World]

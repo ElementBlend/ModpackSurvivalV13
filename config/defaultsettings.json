@@ -1,8 +1,8 @@
 {
-  "version": "0.0.1",
+  "version": "${file.jarVersion}",
   "prevVersion": "none",
-  "generatedBy": "450b7a0e-a348-4406-9db0-97726e7b1e79",
+  "generatedBy": "dc4cea78-83ae-400b-bac7-b8d5c2164a9d",
   "hashes": {},
   "mainProfile": "Default",
-  "initially_created": "01.02.2023 04:31:55"
+  "initially_created": "22.02.2023 04:41:49"
 }

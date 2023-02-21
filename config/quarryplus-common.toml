@@ -58,6 +58,7 @@
 	solid_fuel_quarry = true
 	spawner_controller = false
 	workbench = true
+	filter_module = true
 
 #Power settings of each machines
 [powers]

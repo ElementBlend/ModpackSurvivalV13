@@ -8,7 +8,7 @@
   "forge:ingots/electrum": "alltheores:electrum_ingot",
   "forge:ingots/titanium": "chemlib:titanium_ingot",
   "forge:ingots/uranium": "alltheores:uranium_ingot",
-  "forge:gems/apatite": "thermal:apatite",
+  "forge:gems/apatite": "null",
   "forge:ingots/constantan": "alltheores:constantan_ingot",
   "forge:ingots/graphite": "biggerreactors:graphite_ingot",
   "forge:dusts/saltpeter": "immersiveengineering:dust_saltpeter",

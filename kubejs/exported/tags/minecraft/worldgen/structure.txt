@@ -1,30 +1,30 @@
-To refresh this file, delete it and run /reload command again! Last updated: Feb 1, 2023, 4:34:25 AM
+To refresh this file, delete it and run /reload command again! Last updated: Feb 22, 2023, 4:46:17 AM
 
 #repurposed_structures:collections/villages
-- repurposed_structures:village_badlands (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- repurposed_structures:village_birch (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- repurposed_structures:village_crimson (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- repurposed_structures:village_dark_forest (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- repurposed_structures:village_giant_taiga (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- repurposed_structures:village_jungle (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- repurposed_structures:village_mountains (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- repurposed_structures:village_mushroom (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- repurposed_structures:village_oak (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- repurposed_structures:village_ocean (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- repurposed_structures:village_swamp (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- repurposed_structures:village_warped (from repurposed_structures_forge-6.3.8+1.19.2.jar)
+- repurposed_structures:village_badlands (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- repurposed_structures:village_birch (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- repurposed_structures:village_crimson (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- repurposed_structures:village_dark_forest (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- repurposed_structures:village_giant_taiga (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- repurposed_structures:village_jungle (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- repurposed_structures:village_mountains (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- repurposed_structures:village_mushroom (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- repurposed_structures:village_oak (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- repurposed_structures:village_ocean (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- repurposed_structures:village_swamp (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- repurposed_structures:village_warped (from repurposed_structures_forge-6.3.11+1.19.2.jar)
 
 #dungeons_arise:explorer_maps/plague_asylum
 - dungeons_arise:plague_asylum (from DungeonsArise-1.19.2-2.1.54-release.jar)
 
 #repurposed_structures:collections/temples
-- repurposed_structures:temple_nether_basalt (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- repurposed_structures:temple_nether_crimson (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- repurposed_structures:temple_nether_soul (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- repurposed_structures:temple_nether_warped (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- repurposed_structures:temple_nether_wasteland (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- repurposed_structures:temple_taiga (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- repurposed_structures:temple_ocean (from repurposed_structures_forge-6.3.8+1.19.2.jar)
+- repurposed_structures:temple_nether_basalt (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- repurposed_structures:temple_nether_crimson (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- repurposed_structures:temple_nether_soul (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- repurposed_structures:temple_nether_warped (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- repurposed_structures:temple_nether_wasteland (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- repurposed_structures:temple_taiga (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- repurposed_structures:temple_ocean (from repurposed_structures_forge-6.3.11+1.19.2.jar)
 
 #dungeons_arise:explorer_maps/illager_fort
 - dungeons_arise:illager_fort (from DungeonsArise-1.19.2-2.1.54-release.jar)
@@ -34,13 +34,13 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - betterfortresses:fortress? (from Quark-3.4-389.jar)
 
 #repurposed_structures:collections/shipwrecks
-- repurposed_structures:shipwreck_crimson (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- repurposed_structures:shipwreck_end (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- repurposed_structures:shipwreck_nether_bricks (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- repurposed_structures:shipwreck_warped (from repurposed_structures_forge-6.3.8+1.19.2.jar)
+- repurposed_structures:shipwreck_crimson (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- repurposed_structures:shipwreck_end (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- repurposed_structures:shipwreck_nether_bricks (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- repurposed_structures:shipwreck_warped (from repurposed_structures_forge-6.3.11+1.19.2.jar)
 
 #repurposed_structures:explorer_maps/end_city
-- minecraft:end_city (from repurposed_structures_forge-6.3.8+1.19.2.jar)
+- minecraft:end_city (from repurposed_structures_forge-6.3.11+1.19.2.jar)
 
 #ctov:village_swamp
 - ctov:large/village_swamp (from ctov-3.1.4.jar)
@@ -56,8 +56,8 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - blue_skies:poison_dungeon (from blue_skies-1.19.2-1.3.20.jar)
 
 #repurposed_structures:collections/cities
-- repurposed_structures:city_overworld (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- repurposed_structures:city_nether (from repurposed_structures_forge-6.3.8+1.19.2.jar)
+- repurposed_structures:city_overworld (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- repurposed_structures:city_nether (from repurposed_structures_forge-6.3.11+1.19.2.jar)
 
 #minecraft:on_treasure_maps
 - minecraft:buried_treasure (from Default)
@@ -86,21 +86,21 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - blue_skies:frozen_bunker (from blue_skies-1.19.2-1.3.20.jar)
 
 #repurposed_structures:collections/strongholds
-- repurposed_structures:stronghold_nether (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- repurposed_structures:stronghold_end (from repurposed_structures_forge-6.3.8+1.19.2.jar)
+- repurposed_structures:stronghold_nether (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- repurposed_structures:stronghold_end (from repurposed_structures_forge-6.3.11+1.19.2.jar)
 
 #repurposed_structures:collections/pyramids
-- repurposed_structures:pyramid_badlands (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- repurposed_structures:pyramid_dark_forest (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- repurposed_structures:pyramid_end (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- repurposed_structures:pyramid_flower_forest (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- repurposed_structures:pyramid_giant_tree_taiga (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- repurposed_structures:pyramid_icy (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- repurposed_structures:pyramid_jungle (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- repurposed_structures:pyramid_mushroom (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- repurposed_structures:pyramid_nether (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- repurposed_structures:pyramid_ocean (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- repurposed_structures:pyramid_snowy (from repurposed_structures_forge-6.3.8+1.19.2.jar)
+- repurposed_structures:pyramid_badlands (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- repurposed_structures:pyramid_dark_forest (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- repurposed_structures:pyramid_end (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- repurposed_structures:pyramid_flower_forest (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- repurposed_structures:pyramid_giant_tree_taiga (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- repurposed_structures:pyramid_icy (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- repurposed_structures:pyramid_jungle (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- repurposed_structures:pyramid_mushroom (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- repurposed_structures:pyramid_nether (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- repurposed_structures:pyramid_ocean (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- repurposed_structures:pyramid_snowy (from repurposed_structures_forge-6.3.11+1.19.2.jar)
 
 #ctov:village_plains
 - ctov:large/village_plains (from ctov-3.1.4.jar)
@@ -122,28 +122,28 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - ctov:large/village_taiga (from ctov-3.1.4.jar)
 
 #repurposed_structures:spawn_black_cats
-- #repurposed_structures:collections/witch_huts (from repurposed_structures_forge-6.3.8+1.19.2.jar)
+- #repurposed_structures:collections/witch_huts (from repurposed_structures_forge-6.3.11+1.19.2.jar)
 
 #dungeons_arise:explorer_maps/mushroom_mines
 - dungeons_arise:mushroom_mines (from DungeonsArise-1.19.2-2.1.54-release.jar)
 
 #repurposed_structures:less_jungle_bushes
-- repurposed_structures:outpost_jungle (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- repurposed_structures:village_jungle (from repurposed_structures_forge-6.3.8+1.19.2.jar)
+- repurposed_structures:outpost_jungle (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- repurposed_structures:village_jungle (from repurposed_structures_forge-6.3.11+1.19.2.jar)
 
 #blue_skies:on_blinding_maps
 - blue_skies:everbright_blinding_dungeon (from blue_skies-1.19.2-1.3.20.jar)
 - blue_skies:everdawn_blinding_dungeon (from blue_skies-1.19.2-1.3.20.jar)
 
 #pneumaticcraft:no_oil_lakes
-- repurposed_structures:bastion_underground (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- #repurposed_structures:collections/villages (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- #repurposed_structures:collections/mansions (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- #repurposed_structures:collections/witch_huts (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- #minecraft:village (from pneumaticcraft-repressurized-1.19.2-4.2.0-16.jar)
+- repurposed_structures:bastion_underground (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- #repurposed_structures:collections/villages (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- #repurposed_structures:collections/mansions (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- #repurposed_structures:collections/witch_huts (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- #minecraft:village (from pneumaticcraft-repressurized-1.19.2-4.3.1-20.jar)
 
 #repurposed_structures:collections/fortresses
-- repurposed_structures:fortress_jungle (from repurposed_structures_forge-6.3.8+1.19.2.jar)
+- repurposed_structures:fortress_jungle (from repurposed_structures_forge-6.3.11+1.19.2.jar)
 
 #betterdungeons:better_dungeons
 - betterdungeons:small_dungeon (from YungsBetterDungeons-1.19.2-Forge-3.2.2.jar)
@@ -174,15 +174,15 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - blue_skies:village_slushlands (from blue_skies-1.19.2-1.3.20.jar)
 
 #repurposed_structures:collections/witch_huts
-- repurposed_structures:witch_hut_birch (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- repurposed_structures:witch_hut_dark_forest (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- repurposed_structures:witch_hut_giant_tree_taiga (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- repurposed_structures:witch_hut_oak (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- repurposed_structures:witch_hut_taiga (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- repurposed_structures:witch_hut_mangrove (from repurposed_structures_forge-6.3.8+1.19.2.jar)
+- repurposed_structures:witch_hut_birch (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- repurposed_structures:witch_hut_dark_forest (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- repurposed_structures:witch_hut_giant_tree_taiga (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- repurposed_structures:witch_hut_oak (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- repurposed_structures:witch_hut_taiga (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- repurposed_structures:witch_hut_mangrove (from repurposed_structures_forge-6.3.11+1.19.2.jar)
 
 #repurposed_structures:collections/ruined_portals
-- repurposed_structures:ruined_portal_end (from repurposed_structures_forge-6.3.8+1.19.2.jar)
+- repurposed_structures:ruined_portal_end (from repurposed_structures_forge-6.3.11+1.19.2.jar)
 
 #minecraft:ruined_portal
 - minecraft:ruined_portal_desert (from Default)
@@ -192,7 +192,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - minecraft:ruined_portal_ocean (from Default)
 - minecraft:ruined_portal (from Default)
 - minecraft:ruined_portal_swamp (from Default)
-- #repurposed_structures:collections/ruined_portals (from repurposed_structures_forge-6.3.8+1.19.2.jar)
+- #repurposed_structures:collections/ruined_portals (from repurposed_structures_forge-6.3.11+1.19.2.jar)
 
 #minecraft:village
 - minecraft:village_plains (from Default)
@@ -203,7 +203,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - #ctov:large_village (from ctov-3.1.4.jar)
 - #ctov:medium_village (from ctov-3.1.4.jar)
 - #ctov:small_village (from ctov-3.1.4.jar)
-- #repurposed_structures:collections/villages (from repurposed_structures_forge-6.3.8+1.19.2.jar)
+- #repurposed_structures:collections/villages (from repurposed_structures_forge-6.3.11+1.19.2.jar)
 - blue_skies:village_calming_skies (from blue_skies-1.19.2-1.3.20.jar)
 - blue_skies:village_crystal_dunes (from blue_skies-1.19.2-1.3.20.jar)
 - blue_skies:village_brightlands (from blue_skies-1.19.2-1.3.20.jar)
@@ -217,45 +217,45 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - ctov:small/village_taiga (from ctov-3.1.4.jar)
 
 #repurposed_structures:no_basalt
-- repurposed_structures:mineshaft_nether (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- repurposed_structures:mineshaft_crimson (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- repurposed_structures:mineshaft_warped (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- repurposed_structures:temple_nether_basalt (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- repurposed_structures:shipwreck_nether_bricks (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- repurposed_structures:outpost_nether_brick (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- repurposed_structures:village_crimson (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- repurposed_structures:village_warped (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- repurposed_structures:ruins_nether (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- repurposed_structures:ancient_city_nether (from repurposed_structures_forge-6.3.8+1.19.2.jar)
+- repurposed_structures:mineshaft_nether (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- repurposed_structures:mineshaft_crimson (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- repurposed_structures:mineshaft_warped (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- repurposed_structures:temple_nether_basalt (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- repurposed_structures:shipwreck_nether_bricks (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- repurposed_structures:outpost_nether_brick (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- repurposed_structures:village_crimson (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- repurposed_structures:village_warped (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- repurposed_structures:ruins_nether (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- repurposed_structures:ancient_city_nether (from repurposed_structures_forge-6.3.11+1.19.2.jar)
 
 #dungeons_arise:explorer_maps/foundry
 - dungeons_arise:foundry (from DungeonsArise-1.19.2-2.1.54-release.jar)
 
 #supplementaries:adventure_map_destinations
-- #minecraft:village (from supplementaries-1.19.2-2.2.45.jar)
-- #minecraft:shipwreck (from supplementaries-1.19.2-2.2.45.jar)
-- #minecraft:mineshaft (from supplementaries-1.19.2-2.2.45.jar)
-- #minecraft:ocean_ruin (from supplementaries-1.19.2-2.2.45.jar)
-- #minecraft:ruined_portal (from supplementaries-1.19.2-2.2.45.jar)
-- minecraft:swamp_hut (from supplementaries-1.19.2-2.2.45.jar)
-- minecraft:bastion_remnant (from supplementaries-1.19.2-2.2.45.jar)
-- minecraft:jungle_pyramid (from supplementaries-1.19.2-2.2.45.jar)
-- minecraft:desert_pyramid (from supplementaries-1.19.2-2.2.45.jar)
-- minecraft:pillager_outpost (from supplementaries-1.19.2-2.2.45.jar)
-- minecraft:igloo (from supplementaries-1.19.2-2.2.45.jar)
-- minecraft:end_city (from supplementaries-1.19.2-2.2.45.jar)
+- #minecraft:village (from supplementaries-1.19.2-2.2.50.jar)
+- #minecraft:shipwreck (from supplementaries-1.19.2-2.2.50.jar)
+- #minecraft:mineshaft (from supplementaries-1.19.2-2.2.50.jar)
+- #minecraft:ocean_ruin (from supplementaries-1.19.2-2.2.50.jar)
+- #minecraft:ruined_portal (from supplementaries-1.19.2-2.2.50.jar)
+- minecraft:swamp_hut (from supplementaries-1.19.2-2.2.50.jar)
+- minecraft:bastion_remnant (from supplementaries-1.19.2-2.2.50.jar)
+- minecraft:jungle_pyramid (from supplementaries-1.19.2-2.2.50.jar)
+- minecraft:desert_pyramid (from supplementaries-1.19.2-2.2.50.jar)
+- minecraft:pillager_outpost (from supplementaries-1.19.2-2.2.50.jar)
+- minecraft:igloo (from supplementaries-1.19.2-2.2.50.jar)
+- minecraft:end_city (from supplementaries-1.19.2-2.2.50.jar)
 
 #repurposed_structures:collections/ruins
-- repurposed_structures:ruins_land_icy (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- repurposed_structures:ruins_land_cold (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- repurposed_structures:ruins_land_warm (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- repurposed_structures:ruins_land_hot (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- repurposed_structures:ruins_nether (from repurposed_structures_forge-6.3.8+1.19.2.jar)
+- repurposed_structures:ruins_land_icy (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- repurposed_structures:ruins_land_cold (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- repurposed_structures:ruins_land_warm (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- repurposed_structures:ruins_land_hot (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- repurposed_structures:ruins_nether (from repurposed_structures_forge-6.3.11+1.19.2.jar)
 
 #minecraft:mineshaft
 - minecraft:mineshaft (from Default)
 - minecraft:mineshaft_mesa (from Default)
-- #repurposed_structures:collections/mineshafts (from repurposed_structures_forge-6.3.8+1.19.2.jar)
+- #repurposed_structures:collections/mineshafts (from repurposed_structures_forge-6.3.11+1.19.2.jar)
 - bettermineshafts:mineshaft_acacia (from YungsBetterMineshafts-1.19.2-Forge-3.2.0.jar)
 - bettermineshafts:mineshaft_desert (from YungsBetterMineshafts-1.19.2-Forge-3.2.0.jar)
 - bettermineshafts:mineshaft_ice (from YungsBetterMineshafts-1.19.2-Forge-3.2.0.jar)
@@ -271,11 +271,15 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - bettermineshafts:mineshaft_dripstone (from YungsBetterMineshafts-1.19.2-Forge-3.2.0.jar)
 
 #repurposed_structures:explorer_maps/nether_fortress
-- minecraft:fortress (from repurposed_structures_forge-6.3.8+1.19.2.jar)
+- minecraft:fortress (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- betterfortresses:fortress? (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- hexfortress:nether_fortress? (from repurposed_structures_forge-6.3.11+1.19.2.jar)
 
 #minecraft:cats_spawn_as_black
 - minecraft:swamp_hut (from Default)
-- #repurposed_structures:collections/witch_huts (from repurposed_structures_forge-6.3.8+1.19.2.jar)
+- #repurposed_structures:collections/witch_huts (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- betterwitchhuts:witch_hut (from YungsBetterWitchHuts-1.19.2-Forge-2.1.0.jar)
+- betterwitchhuts:witch_circle (from YungsBetterWitchHuts-1.19.2-Forge-2.1.0.jar)
 
 #ctov:village_mesa
 - ctov:large/village_mesa (from ctov-3.1.4.jar)
@@ -298,14 +302,14 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 
 #minecraft:eye_of_ender_located
 - minecraft:stronghold (from Default)
-- #repurposed_structures:collections/strongholds (from repurposed_structures_forge-6.3.8+1.19.2.jar)
+- #repurposed_structures:collections/strongholds (from repurposed_structures_forge-6.3.11+1.19.2.jar)
 - betterstrongholds:stronghold (from YungsBetterStrongholds-1.19.2-Forge-3.2.0.jar)
 
 #repurposed_structures:no_lakes
-- repurposed_structures:bastion_underground (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- #repurposed_structures:collections/villages (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- #repurposed_structures:collections/mansions (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- #repurposed_structures:collections/witch_huts (from repurposed_structures_forge-6.3.8+1.19.2.jar)
+- repurposed_structures:bastion_underground (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- #repurposed_structures:collections/villages (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- #repurposed_structures:collections/mansions (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- #repurposed_structures:collections/witch_huts (from repurposed_structures_forge-6.3.11+1.19.2.jar)
 
 #ctov:village_savanna
 - ctov:large/village_savanna (from ctov-3.1.4.jar)
@@ -313,23 +317,23 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - ctov:small/village_savanna (from ctov-3.1.4.jar)
 
 #repurposed_structures:explorer_maps/stronghold_end
-- repurposed_structures:stronghold_end (from repurposed_structures_forge-6.3.8+1.19.2.jar)
+- repurposed_structures:stronghold_end (from repurposed_structures_forge-6.3.11+1.19.2.jar)
 
 #repurposed_structures:collections/mineshafts
-- repurposed_structures:mineshaft_birch (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- repurposed_structures:mineshaft_crimson (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- repurposed_structures:mineshaft_dark_forest (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- repurposed_structures:mineshaft_desert (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- repurposed_structures:mineshaft_end (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- repurposed_structures:mineshaft_icy (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- repurposed_structures:mineshaft_jungle (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- repurposed_structures:mineshaft_nether (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- repurposed_structures:mineshaft_ocean (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- repurposed_structures:mineshaft_savanna (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- repurposed_structures:mineshaft_stone (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- repurposed_structures:mineshaft_swamp (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- repurposed_structures:mineshaft_taiga (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- repurposed_structures:mineshaft_warped (from repurposed_structures_forge-6.3.8+1.19.2.jar)
+- repurposed_structures:mineshaft_birch (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- repurposed_structures:mineshaft_crimson (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- repurposed_structures:mineshaft_dark_forest (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- repurposed_structures:mineshaft_desert (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- repurposed_structures:mineshaft_end (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- repurposed_structures:mineshaft_icy (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- repurposed_structures:mineshaft_jungle (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- repurposed_structures:mineshaft_nether (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- repurposed_structures:mineshaft_ocean (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- repurposed_structures:mineshaft_savanna (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- repurposed_structures:mineshaft_stone (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- repurposed_structures:mineshaft_swamp (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- repurposed_structures:mineshaft_taiga (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- repurposed_structures:mineshaft_warped (from repurposed_structures_forge-6.3.11+1.19.2.jar)
 
 #ctov:village_snowy
 - ctov:large/village_snowy (from ctov-3.1.4.jar)
@@ -338,10 +342,12 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 
 #minecraft:cats_spawn_in
 - minecraft:swamp_hut (from Default)
-- #repurposed_structures:collections/witch_huts (from repurposed_structures_forge-6.3.8+1.19.2.jar)
+- #repurposed_structures:collections/witch_huts (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- betterwitchhuts:witch_hut (from YungsBetterWitchHuts-1.19.2-Forge-2.1.0.jar)
+- betterwitchhuts:witch_circle (from YungsBetterWitchHuts-1.19.2-Forge-2.1.0.jar)
 
 #repurposed_structures:explorer_maps/pyramid_end
-- repurposed_structures:pyramid_end (from repurposed_structures_forge-6.3.8+1.19.2.jar)
+- repurposed_structures:pyramid_end (from repurposed_structures_forge-6.3.11+1.19.2.jar)
 
 #bettermineshafts:better_mineshafts
 - bettermineshafts:mineshaft_acacia (from YungsBetterMineshafts-1.19.2-Forge-3.2.0.jar)
@@ -368,11 +374,14 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - ctov:medium/village_beach (from ctov-3.1.4.jar)
 - ctov:small/village_beach (from ctov-3.1.4.jar)
 
+#morevillagers:on_swamp_hut_explorer_maps
+- betterwitchhuts:witch_hut (from YungsBetterWitchHuts-1.19.2-Forge-2.1.0.jar)
+
 #repurposed_structures:explorer_maps/ancient_city_nether
-- repurposed_structures:ancient_city_nether (from repurposed_structures_forge-6.3.8+1.19.2.jar)
+- repurposed_structures:ancient_city_nether (from repurposed_structures_forge-6.3.11+1.19.2.jar)
 
 #repurposed_structures:explorer_maps/ruins_nether
-- repurposed_structures:ruins_nether (from repurposed_structures_forge-6.3.8+1.19.2.jar)
+- repurposed_structures:ruins_nether (from repurposed_structures_forge-6.3.11+1.19.2.jar)
 
 #ctov:village_jungle
 - ctov:large/village_jungle (from ctov-3.1.4.jar)
@@ -388,55 +397,55 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - blue_skies:nature_dungeon (from blue_skies-1.19.2-1.3.20.jar)
 
 #repurposed_structures:collections/bastions
-- repurposed_structures:bastion_underground (from repurposed_structures_forge-6.3.8+1.19.2.jar)
+- repurposed_structures:bastion_underground (from repurposed_structures_forge-6.3.11+1.19.2.jar)
 
 #dungeons_arise:explorer_maps/thornborn_towers
 - dungeons_arise:thornborn_towers (from DungeonsArise-1.19.2-2.1.54-release.jar)
 
 #repurposed_structures:collections/ancient_cities
-- repurposed_structures:ancient_city_ocean (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- repurposed_structures:ancient_city_nether (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- repurposed_structures:ancient_city_end (from repurposed_structures_forge-6.3.8+1.19.2.jar)
+- repurposed_structures:ancient_city_ocean (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- repurposed_structures:ancient_city_nether (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- repurposed_structures:ancient_city_end (from repurposed_structures_forge-6.3.11+1.19.2.jar)
 
 #repurposed_structures:collections/igloos
-- repurposed_structures:igloo_grassy (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- repurposed_structures:igloo_mangrove (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- repurposed_structures:igloo_mushroom (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- repurposed_structures:igloo_stone (from repurposed_structures_forge-6.3.8+1.19.2.jar)
+- repurposed_structures:igloo_grassy (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- repurposed_structures:igloo_mangrove (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- repurposed_structures:igloo_mushroom (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- repurposed_structures:igloo_stone (from repurposed_structures_forge-6.3.11+1.19.2.jar)
 
 #repurposed_structures:explorer_maps/city_nether
-- repurposed_structures:city_nether (from repurposed_structures_forge-6.3.8+1.19.2.jar)
+- repurposed_structures:city_nether (from repurposed_structures_forge-6.3.11+1.19.2.jar)
 
 #repurposed_structures:explorer_maps/bastion_remnant
-- minecraft:bastion_remnant (from repurposed_structures_forge-6.3.8+1.19.2.jar)
+- minecraft:bastion_remnant (from repurposed_structures_forge-6.3.11+1.19.2.jar)
 
 #repurposed_structures:no_lavafalls
-- repurposed_structures:bastion_underground (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- repurposed_structures:mineshaft_icy (from repurposed_structures_forge-6.3.8+1.19.2.jar)
+- repurposed_structures:bastion_underground (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- repurposed_structures:mineshaft_icy (from repurposed_structures_forge-6.3.11+1.19.2.jar)
 
 #dungeons_arise:explorer_maps/monastery
 - dungeons_arise:monastery (from DungeonsArise-1.19.2-2.1.54-release.jar)
 
 #repurposed_structures:no_waterfalls
-- repurposed_structures:mansion_snowy (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- repurposed_structures:outpost_snowy (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- repurposed_structures:pyramid_snowy (from repurposed_structures_forge-6.3.8+1.19.2.jar)
+- repurposed_structures:mansion_snowy (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- repurposed_structures:outpost_snowy (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- repurposed_structures:pyramid_snowy (from repurposed_structures_forge-6.3.11+1.19.2.jar)
 
 #repurposed_structures:collections/outposts
-- repurposed_structures:outpost_badlands (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- repurposed_structures:outpost_birch (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- repurposed_structures:outpost_crimson (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- repurposed_structures:outpost_desert (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- repurposed_structures:outpost_end (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- repurposed_structures:outpost_giant_tree_taiga (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- repurposed_structures:outpost_icy (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- repurposed_structures:outpost_jungle (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- repurposed_structures:outpost_mangrove (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- repurposed_structures:outpost_nether_brick (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- repurposed_structures:outpost_oak (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- repurposed_structures:outpost_snowy (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- repurposed_structures:outpost_taiga (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- repurposed_structures:outpost_warped (from repurposed_structures_forge-6.3.8+1.19.2.jar)
+- repurposed_structures:outpost_badlands (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- repurposed_structures:outpost_birch (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- repurposed_structures:outpost_crimson (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- repurposed_structures:outpost_desert (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- repurposed_structures:outpost_end (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- repurposed_structures:outpost_giant_tree_taiga (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- repurposed_structures:outpost_icy (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- repurposed_structures:outpost_jungle (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- repurposed_structures:outpost_mangrove (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- repurposed_structures:outpost_nether_brick (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- repurposed_structures:outpost_oak (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- repurposed_structures:outpost_snowy (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- repurposed_structures:outpost_taiga (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- repurposed_structures:outpost_warped (from repurposed_structures_forge-6.3.11+1.19.2.jar)
 
 #dungeons_arise:explorer_maps/bandit_towers
 - dungeons_arise:bandit_towers (from DungeonsArise-1.19.2-2.1.54-release.jar)
@@ -447,9 +456,9 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 #minecraft:dolphin_located
 - #minecraft:ocean_ruin (from Default)
 - #minecraft:shipwreck (from Default)
-- repurposed_structures:pyramid_ocean (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- repurposed_structures:village_ocean (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- repurposed_structures:temple_ocean (from repurposed_structures_forge-6.3.8+1.19.2.jar)
+- repurposed_structures:pyramid_ocean (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- repurposed_structures:village_ocean (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- repurposed_structures:temple_ocean (from repurposed_structures_forge-6.3.11+1.19.2.jar)
 
 #dungeons_arise:explorer_maps/shiraz_palace
 - dungeons_arise:shiraz_palace (from DungeonsArise-1.19.2-2.1.54-release.jar)
@@ -475,50 +484,50 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - minecraft:shipwreck_beached (from Default)
 
 #repurposed_structures:explorer_maps/bastion_underground
-- repurposed_structures:bastion_underground (from repurposed_structures_forge-6.3.8+1.19.2.jar)
+- repurposed_structures:bastion_underground (from repurposed_structures_forge-6.3.11+1.19.2.jar)
 
 #repurposed_structures:collections/mansions
-- repurposed_structures:mansion_birch (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- repurposed_structures:mansion_desert (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- repurposed_structures:mansion_jungle (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- repurposed_structures:mansion_mangrove (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- repurposed_structures:mansion_oak (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- repurposed_structures:mansion_savanna (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- repurposed_structures:mansion_snowy (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- repurposed_structures:mansion_taiga (from repurposed_structures_forge-6.3.8+1.19.2.jar)
+- repurposed_structures:mansion_birch (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- repurposed_structures:mansion_desert (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- repurposed_structures:mansion_jungle (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- repurposed_structures:mansion_mangrove (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- repurposed_structures:mansion_oak (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- repurposed_structures:mansion_savanna (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- repurposed_structures:mansion_snowy (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- repurposed_structures:mansion_taiga (from repurposed_structures_forge-6.3.11+1.19.2.jar)
 
 #supplementaries:way_sign_destinations
-- #minecraft:village (from supplementaries-1.19.2-2.2.45.jar)
-- hauntedharvest:abandoned_farm? (from supplementaries-1.19.2-2.2.45.jar)
-- harvestseason:abandoned_farm? (from supplementaries-1.19.2-2.2.45.jar)
-- pokecube_legends:village? (from supplementaries-1.19.2-2.2.45.jar)
-- pokecube_legends:village/ocean? (from supplementaries-1.19.2-2.2.45.jar)
-- valhelsia_structures:castle? (from supplementaries-1.19.2-2.2.45.jar)
-- valhelsia_structures:castle_ruin? (from supplementaries-1.19.2-2.2.45.jar)
-- valhelsia_structures:small_castle? (from supplementaries-1.19.2-2.2.45.jar)
-- valhelsia_structures:tower_ruin? (from supplementaries-1.19.2-2.2.45.jar)
-- stoneholm:underground_village? (from supplementaries-1.19.2-2.2.45.jar)
-- blue_skies:gatekeeper_house? (from supplementaries-1.19.2-2.2.45.jar)
-- feywild:library? (from supplementaries-1.19.2-2.2.45.jar)
-- feywild:blacksmith? (from supplementaries-1.19.2-2.2.45.jar)
-- idas:bazaar? (from supplementaries-1.19.2-2.2.45.jar)
-- idas:castle? (from supplementaries-1.19.2-2.2.45.jar)
-- idas:farmhouse? (from supplementaries-1.19.2-2.2.45.jar)
-- idas:bearclaw_inn? (from supplementaries-1.19.2-2.2.45.jar)
-- idas:treetop_tavern? (from supplementaries-1.19.2-2.2.45.jar)
-- idas:wizardtower? (from supplementaries-1.19.2-2.2.45.jar)
-- idas:farmhouse? (from supplementaries-1.19.2-2.2.45.jar)
-- idas:fishermans_lodge? (from supplementaries-1.19.2-2.2.45.jar)
-- idas:beekeepers_house? (from supplementaries-1.19.2-2.2.45.jar)
-- idas:desert_market/desert_market? (from supplementaries-1.19.2-2.2.45.jar)
-- idas:desert_market/desert_market_red? (from supplementaries-1.19.2-2.2.45.jar)
-- idas:desert_market/desert_market_orange? (from supplementaries-1.19.2-2.2.45.jar)
+- #minecraft:village (from supplementaries-1.19.2-2.2.50.jar)
+- hauntedharvest:abandoned_farm? (from supplementaries-1.19.2-2.2.50.jar)
+- harvestseason:abandoned_farm? (from supplementaries-1.19.2-2.2.50.jar)
+- pokecube_legends:village? (from supplementaries-1.19.2-2.2.50.jar)
+- pokecube_legends:village/ocean? (from supplementaries-1.19.2-2.2.50.jar)
+- valhelsia_structures:castle? (from supplementaries-1.19.2-2.2.50.jar)
+- valhelsia_structures:castle_ruin? (from supplementaries-1.19.2-2.2.50.jar)
+- valhelsia_structures:small_castle? (from supplementaries-1.19.2-2.2.50.jar)
+- valhelsia_structures:tower_ruin? (from supplementaries-1.19.2-2.2.50.jar)
+- stoneholm:underground_village? (from supplementaries-1.19.2-2.2.50.jar)
+- blue_skies:gatekeeper_house? (from supplementaries-1.19.2-2.2.50.jar)
+- feywild:library? (from supplementaries-1.19.2-2.2.50.jar)
+- feywild:blacksmith? (from supplementaries-1.19.2-2.2.50.jar)
+- idas:bazaar? (from supplementaries-1.19.2-2.2.50.jar)
+- idas:castle? (from supplementaries-1.19.2-2.2.50.jar)
+- idas:farmhouse? (from supplementaries-1.19.2-2.2.50.jar)
+- idas:bearclaw_inn? (from supplementaries-1.19.2-2.2.50.jar)
+- idas:treetop_tavern? (from supplementaries-1.19.2-2.2.50.jar)
+- idas:wizardtower? (from supplementaries-1.19.2-2.2.50.jar)
+- idas:farmhouse? (from supplementaries-1.19.2-2.2.50.jar)
+- idas:fishermans_lodge? (from supplementaries-1.19.2-2.2.50.jar)
+- idas:beekeepers_house? (from supplementaries-1.19.2-2.2.50.jar)
+- idas:desert_market/desert_market? (from supplementaries-1.19.2-2.2.50.jar)
+- idas:desert_market/desert_market_red? (from supplementaries-1.19.2-2.2.50.jar)
+- idas:desert_market/desert_market_orange? (from supplementaries-1.19.2-2.2.50.jar)
 
 #betterstrongholds:better_strongholds
 - betterstrongholds:stronghold (from YungsBetterStrongholds-1.19.2-Forge-3.2.0.jar)
 
 #repurposed_structures:explorer_maps/stronghold_nether
-- repurposed_structures:stronghold_nether (from repurposed_structures_forge-6.3.8+1.19.2.jar)
+- repurposed_structures:stronghold_nether (from repurposed_structures_forge-6.3.11+1.19.2.jar)
 
 #minecraft:ocean_ruin
 - minecraft:ocean_ruin_cold (from Default)
@@ -534,10 +543,10 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - dungeons_arise:plague_asylum (from DungeonsArise-1.19.2-2.1.54-release.jar)
 
 #repurposed_structures:collections/monuments
-- repurposed_structures:monument_jungle (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- repurposed_structures:monument_icy (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- repurposed_structures:monument_nether (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- repurposed_structures:monument_desert (from repurposed_structures_forge-6.3.8+1.19.2.jar)
+- repurposed_structures:monument_jungle (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- repurposed_structures:monument_icy (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- repurposed_structures:monument_nether (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- repurposed_structures:monument_desert (from repurposed_structures_forge-6.3.11+1.19.2.jar)
 
 #ctov:village_desert
 - ctov:large/village_desert (from ctov-3.1.4.jar)
@@ -545,7 +554,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - ctov:small/village_desert (from ctov-3.1.4.jar)
 
 #repurposed_structures:larger_locate_search
-- #repurposed_structures:collections/mineshafts (from repurposed_structures_forge-6.3.8+1.19.2.jar)
+- #repurposed_structures:collections/mineshafts (from repurposed_structures_forge-6.3.11+1.19.2.jar)
 
 #ctov:small_village
 - ctov:small/village_beach (from ctov-3.1.4.jar)
@@ -562,10 +571,10 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - ctov:small/village_taiga (from ctov-3.1.4.jar)
 
 #repurposed_structures:explorer_maps/unknown_ocean_structure_4
-- minecraft:ruined_portal_ocean (from repurposed_structures_forge-6.3.8+1.19.2.jar)
+- minecraft:ruined_portal_ocean (from repurposed_structures_forge-6.3.11+1.19.2.jar)
 
 #repurposed_structures:explorer_maps/unknown_ocean_structure_5
-- repurposed_structures:pyramid_ocean (from repurposed_structures_forge-6.3.8+1.19.2.jar)
+- repurposed_structures:pyramid_ocean (from repurposed_structures_forge-6.3.11+1.19.2.jar)
 
 #blue_skies:dungeons
 - blue_skies:everbright_blinding_dungeon (from blue_skies-1.19.2-1.3.20.jar)
@@ -574,18 +583,19 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - blue_skies:poison_dungeon (from blue_skies-1.19.2-1.3.20.jar)
 
 #repurposed_structures:explorer_maps/unknown_ocean_structure_6
-- repurposed_structures:ancient_city_ocean (from repurposed_structures_forge-6.3.8+1.19.2.jar)
+- repurposed_structures:ancient_city_ocean (from repurposed_structures_forge-6.3.11+1.19.2.jar)
 
 #repurposed_structures:explorer_maps/unknown_ocean_structure_7
-- repurposed_structures:temple_ocean (from repurposed_structures_forge-6.3.8+1.19.2.jar)
+- repurposed_structures:temple_ocean (from repurposed_structures_forge-6.3.11+1.19.2.jar)
 
 #repurposed_structures:explorer_maps/unknown_ocean_structure_1
-- minecraft:monument (from repurposed_structures_forge-6.3.8+1.19.2.jar)
+- minecraft:monument (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- betteroceanmonuments:ocean_monument? (from repurposed_structures_forge-6.3.11+1.19.2.jar)
 
 #repurposed_structures:explorer_maps/unknown_ocean_structure_2
-- minecraft:shipwreck (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- minecraft:shipwreck_beached (from repurposed_structures_forge-6.3.8+1.19.2.jar)
+- minecraft:shipwreck (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- minecraft:shipwreck_beached (from repurposed_structures_forge-6.3.11+1.19.2.jar)
 
 #repurposed_structures:explorer_maps/unknown_ocean_structure_3
-- minecraft:ocean_ruin_cold (from repurposed_structures_forge-6.3.8+1.19.2.jar)
-- minecraft:ocean_ruin_warm (from repurposed_structures_forge-6.3.8+1.19.2.jar)
+- minecraft:ocean_ruin_cold (from repurposed_structures_forge-6.3.11+1.19.2.jar)
+- minecraft:ocean_ruin_warm (from repurposed_structures_forge-6.3.11+1.19.2.jar)

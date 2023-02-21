@@ -1,4 +1,4 @@
-To refresh this file, delete it and run /reload command again! Last updated: Feb 1, 2023, 4:34:25 AM
+To refresh this file, delete it and run /reload command again! Last updated: Feb 22, 2023, 4:46:17 AM
 
 #minecraft:vibrations
 - minecraft:block_attach (from Default)
@@ -42,10 +42,10 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - minecraft:swim (from Default)
 - minecraft:teleport (from Default)
 - minecraft:flap (from Default)
-- mekanism:seismic_vibration (from Mekanism-1.19.2-10.3.5.473.jar)
-- mekanism:jetpack_burn (from Mekanism-1.19.2-10.3.5.473.jar)
-- mekanism:gravity_modulate (from Mekanism-1.19.2-10.3.5.473.jar)
-- mekanism:gravity_modulate_boosted (from Mekanism-1.19.2-10.3.5.473.jar)
+- mekanism:seismic_vibration (from Mekanism-1.19.2-10.3.8.477.jar)
+- mekanism:jetpack_burn (from Mekanism-1.19.2-10.3.8.477.jar)
+- mekanism:gravity_modulate (from Mekanism-1.19.2-10.3.8.477.jar)
+- mekanism:gravity_modulate_boosted (from Mekanism-1.19.2-10.3.8.477.jar)
 
 #minecraft:ignore_vibrations_sneaking
 - minecraft:hit_ground (from Default)
@@ -98,10 +98,10 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 - minecraft:teleport (from Default)
 - minecraft:shriek (from Default)
 - #minecraft:shrieker_can_listen (from Default)
-- mekanism:seismic_vibration (from Mekanism-1.19.2-10.3.5.473.jar)
-- mekanism:jetpack_burn (from Mekanism-1.19.2-10.3.5.473.jar)
-- mekanism:gravity_modulate (from Mekanism-1.19.2-10.3.5.473.jar)
-- mekanism:gravity_modulate_boosted (from Mekanism-1.19.2-10.3.5.473.jar)
+- mekanism:seismic_vibration (from Mekanism-1.19.2-10.3.8.477.jar)
+- mekanism:jetpack_burn (from Mekanism-1.19.2-10.3.8.477.jar)
+- mekanism:gravity_modulate (from Mekanism-1.19.2-10.3.8.477.jar)
+- mekanism:gravity_modulate_boosted (from Mekanism-1.19.2-10.3.8.477.jar)
 
 #quark:echorang_can_listen
 - minecraft:shriek (from Quark-3.4-389.jar)
