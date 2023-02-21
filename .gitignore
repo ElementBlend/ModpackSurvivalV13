@@ -23,6 +23,7 @@
 /config/AppliedEnergistics2/items.csv
 /config/agricraft/json/*
 !/config/agricraft/json/defaults/
+/config/byg/backups/
 /config/brandon3055/ProjectIntelligence/ModDocs/
 /config/brandon3055/ProjectIntelligence/DocUpdater/
 /config/brandon3055/ProjectIntelligence/PackDocs/
