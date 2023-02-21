@@ -8,6 +8,8 @@ Total Mods: TODO
 **Change**
 
 - Turn off the render of the Mekanism pipe to increase performance in extreme cases
+- Change Schemtic max file size to 2mb
+- Add recipe for minecraft barrier
 
 ## 13.0
 
