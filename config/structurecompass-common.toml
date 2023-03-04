@@ -1,7 +1,7 @@
 
 #General settings
 [general]
-	#Sets the range in which the structure compasses can check for structures [default: 300]
+	#Sets the range in blocks in which the structure compasses can locate structures [default: 10000]
 	#Range: > 0
 	compassRange = 500
 	#Defines if the structure compass should locate unexplored structures [default: false]

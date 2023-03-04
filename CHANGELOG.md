@@ -11,6 +11,32 @@ Total Mods: TODO
 - Change Schemtic max file size to 2mb
 - Add recipe for minecraft barrier
 
+**Added Mod**
+
+- AI Improvements
+- Alternate Current
+- Create Steam'n Rails
+- It Shall Not Tick
+- Oauth
+- Starlight
+
+**Updated Mods**
+
+- Additional Lights
+- Better Advancements
+- ChoiceTheorem's Overhauled Village
+- Crash Utilities
+- Crafting on a stick
+- Creeper Overhaul
+- Entity Culling
+- Just Enough Items
+- MmmMmmMmmMmm (Target Dummy)
+- Moon Light
+- Shrink
+- Supplementaries
+- Structure Compass
+- Tesseract
+
 ## 13.0
 
 Forge Version: 1.19.2-43.2.3  
